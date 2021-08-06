@@ -1,3 +1,6 @@
+# Bug description:
+While "Scale to Fit" and "Lock aspect ratio" are disabled, Canvas PowerApps on the device will not register correct coordinates of html click event on the screen.
+
 # Steps to reproduce:
 
 1. Create a new Canvas App (Phone format)
